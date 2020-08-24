@@ -16,6 +16,7 @@ menu:
 ### Free conference for passionate developers
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://twitter.com/devefestnorway" target="_blank">Follow our Twitter to stay updated about our next event</a>   -->
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">CFP is open!</a>  
 
 {{% /jumbo %}}
 
