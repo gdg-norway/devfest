@@ -1,0 +1,79 @@
+baseURL = "/"
+languageCode = "en"
+title = "Devfest Norway 2020"
+
+# Theme
+theme = "devfest-2020"
+
+# Params
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
+
+googleAnalytics = "G-RS13F4SMSQ"
+
+[params]
+    title = "Devfest Norway 2020 - The Largest GDGs and GDGs Cloud conference in Norway. October 14-15th. Free Developer conference."
+    date = "2020-10-14"
+    description = "Local speakers, Google Developer Experts and legendary international speakers onboard, an excellent program, fresh and 100% useful."
+    images = ["/images/social-share.png"]
+    email = "contact@devfest.no"
+    keywords = "event, gde, google, programming, android, chrome, polymer, developers, web, cloud, GDG, GDG Cloud"
+    copyright = "Devfest Norway Team"
+    cfpUrl = "http://bit.ly/devfest-norway-2020-cfp"
+    subscriptionUrl = "#"
+    appleTouchIcon = "/manifest/icon-large.png"
+    favicon32 = "/manifest/icon-large.png"
+    favicon16 = "/manifest/icon-large.png"
+    manifest = "/manifest.json"
+    safariPinnedTab = "/safari-pinned-tab.svg"
+    themeColor = "#b4450e"
+    googleWebmasterKey = ""
+    env = "production"
+
+[params.logos]
+    jumbo = "/images/logos/logo.png"
+    header = "/images/logos/logo.png"
+    footer = "/images/logos/logo.png"
+
+[menu]
+[[menu.main]]
+    identifier = "Youtube"
+    name = "Live"
+    url = "#"
+    weight = 190
+    external = true
+
+[markup.goldmark.renderer]
+unsafe= true
+
+[languages]
+[languages.en]
+    weight = 1
+    languageName = "en"
+
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    anonymizeIP = false
+    disable = false
+    respectDoNotTrack = false
+    useSessionStorage = false
+  [privacy.instagram]
+    disable = true
+    simple = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = false
+    simple = false
+  [privacy.vimeo]
+    disable = true
+    simple = false
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = false

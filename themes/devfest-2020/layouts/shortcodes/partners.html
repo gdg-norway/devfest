@@ -1,0 +1,24 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<section class="partners">
+<div class="inner">
+{{ .Inner }}
+</div>
+
+{{ $site := .Site }}
+{{ range (split (.Get "categories") ",") }}
+{{ $typeLabel := (split . "=") }}
+{{ $type := (index $typeLabel 0) }}
+{{ $label := (index $typeLabel 1) }}
+<section class="partners-group partner-{{ $type }}">
+<h3 class="fancy">
+<span>{{ $label }}</span>
+</h3>
+<ul>
+{{ $partners := where $site.AllPages "Params.category" $type }}
+{{ range sort $partners ".Params.order" "asc" }}
+<li>{{ partial "partner.html" . }}</li>
+{{ end }}
+</ul>
+</section>
+{{ end }}
+</section>

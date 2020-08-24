@@ -1,0 +1,50 @@
+- day: '2020-11-14'
+  start: '12:00'
+  rooms:
+    - room: online
+      slots:
+        - slot: open-1
+          talk: __open
+        - slot: slot-1
+          talk: TBA
+        - slot: slot-2
+          talk: TBA
+        - slot: slot-3
+          talk: TBA
+        - slot: panel-1
+          talk: __panel-1
+        - slot: slot-4
+          talk: TBA
+        - slot: slot-5
+          talk: TBA
+        - slot: slot-6
+          talk: TBA
+        - slot: panel-2
+          talk: __panel-2
+        - slot: close-1
+          talk: __close
+- day: '2020-11-15'
+  start: '09:30'
+  rooms:
+    - room: online
+      slots:
+        - slot: open-2
+          talk: __open
+        - slot: slot-8
+          talk: TBA
+        - slot: slot-9
+          talk: TBA
+        - slot: slot-10
+          talk: TBA
+        - slot: panel-3
+          talk: __panel-3
+        - slot: slot-11
+          talk: TBA
+        - slot: slot-12
+          talk: TBA
+        - slot: slot-13
+          talk: TBA
+        - slot: panel-4
+          talk: __panel-4
+        - slot: close-2
+          talk: __close

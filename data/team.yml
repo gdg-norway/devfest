@@ -1,0 +1,36 @@
+- title: Majid Hajian
+  type: core
+  subtitle: Organizer
+  socials:
+    - link: 'https://www.twitter.com/mhadaily'
+      name: Twitter
+    - link: 'https://github.com/mhadaily'
+      name: Github
+    - link: 'https://www.linkedin.com/in/mhadaily/'
+      name: Linkedin
+  key: majid_hajian
+
+- title: Leonard Lee
+  type: core
+  subtitle: Organizer  
+  key: leonard_lee
+
+- title: Rustam Mehmandarov
+  type: core
+  subtitle: Organizer
+  key: rustam_mehmandarov
+
+- title: Prashant Bajpayee 
+  type: core
+  subtitle: Organizer
+  key: prashant_bajpayee
+
+- title: Øyvind Randa 
+  type: core
+  subtitle: Organizer
+  key: oyvind_randa 
+
+- title: Vaibhav Bhutoria 
+  type: core
+  subtitle: Organizer
+  key: vaibhav_bhutoria 

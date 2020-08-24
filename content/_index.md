@@ -1,0 +1,62 @@
+---
+title: Home
+icon: home
+
+menu:
+  main:
+    weight: -1
+
+---
+
+{{% jumbo %}}
+# DevFest Norway
+
+## October 14-15th, Online
+
+### Free conference for passionate developers
+
+<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://twitter.com/devefestnorway" target="_blank">Follow our Twitter to stay updated about our next event</a>   -->
+
+{{% /jumbo %}}
+
+
+{{% home-info what="Participants:3500,Days:2,Sessions:14,Fun:∞" class="primary" %}}
+
+## What is Devfest Norway?
+
+The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles.
+
+{{% /home-info %}}
+
+<!-- ... -->
+
+{{% home-speakers %}}
+
+## Featured Speakers
+
+
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+
+{{% /home-speakers %}}
+
+<!-- ... -->
+
+{{% home-subscribe  class="primary" %}}
+
+## Get notified about the important conference updates
+
+{{% /home-subscribe %}}
+
+<!-- ... -->
+
+<!-- {{% album images="/images/album/2019/62351196_2394916927264211_669358421014740992_o.jpg,/images/album/2019/62368709_2394916110597626_1864575767120183296_o.jpg,/images/album/2019/62388955_2394915773930993_3839295919006679040_o.jpg,/images/album/2019/62148190_2394916503930920_3639667423931531264_o.jpg,/images/album/2019/62125760_2394915620597675_5101970416600088576_o.jpg,/images/album/2019/62148206_2394917407264163_3735036743242481664_o.jpg,/images/album/2019/62071148_2394915993930971_4826363434662625280_o.jpg,/images/album/2019/64282334_2394916103930960_6980392943534211072_o.jpg" %}}
+
+{{% /album  %}} -->
+
+{{% partners categories="sponsors=Sponsors,communities=Partners" %}}
+
+## Our supporters
+{{% /partners %}}

@@ -1,0 +1,120 @@
+- key: open-1
+  start: '12:00'
+  duration: 5
+  row:
+    start: 1
+    end: 2
+- key: slot-1
+  start: '12:05'
+  duration: 25
+  row:
+    start: 2
+    end: 4
+- key: slot-2
+  start: '12:30'
+  duration: 30
+  row:
+    start: 4
+    end: 6
+- key: slot-3
+  start: '13:00'
+  duration: 20
+  row:
+    start: 6
+    end: 8
+- key: panel-1
+  start: '13:20'
+  duration: 10
+  row:
+    start: 8
+    end: 10
+- key: slot-4
+  start: '13:30'
+  duration: 30
+  row:
+    start: 10
+    end: 12
+- key: slot-5
+  start: '14:20'
+  duration: 20
+  row:
+    start: 12
+    end: 14
+- key: slot-6
+  start: '14:40'
+  duration: 20
+  row:
+    start: 14
+    end: 16
+- key: panel-2
+  start: '15:00'
+  duration: 10
+  row:
+    start: 16
+    end: 18
+- key: close-1
+  start: '15:10'
+  duration: 5
+  row:
+    start: 18
+    end: 20
+- key: open-2
+  start: '09:30'
+  duration: 5
+  row:
+    start: 1
+    end: 2
+- key: slot-8
+  start: '09:25'
+  duration: 20
+  row:
+    start: 2
+    end: 4
+- key: slot-9
+  start: '9:45'
+  duration: 30
+  row:
+    start: 4
+    end: 6
+- key: slot-10
+  start: '10:15'
+  duration: 30
+  row:
+    start: 6
+    end: 8
+- key: panel-3
+  start: '10:45'
+  duration: 15
+  row:
+    start: 8
+    end: 10
+- key: slot-11
+  start: '11:00'
+  duration: 20
+  row:
+    start: 10
+    end: 12
+- key: slot-12
+  start: '11:25'
+  duration: 20
+  row:
+    start: 12
+    end: 14
+- key: slot-13
+  start: '11:45'
+  duration: 30
+  row:
+    start: 14
+    end: 16
+- key: panel-4
+  start: '12:15'
+  duration: 10
+  row:
+    start: 16
+    end: 18
+- key: close-2
+  start: '12:25'
+  duration: 5
+  row:
+    start: 18
+    end: 20
