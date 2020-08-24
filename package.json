@@ -8,7 +8,7 @@
     "build:icons": "node tools/icons.js",
     "build:styles": "node tools/styles.js",
     "build:scripts": "node tools/scripts.js",
-    "build:site": "hugo",
+    "build:site": "hugo --minify",
     "build:service-worker": "node tools/workbox.js && npx rollup -c",
     "build:minify": "node tools/minify.js",
     "build": "run-s build:*"
