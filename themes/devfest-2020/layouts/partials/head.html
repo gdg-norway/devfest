@@ -15,6 +15,14 @@
 	{{- template "_internal/schema.html" . -}}
 	{{- template "_internal/twitter_cards.html" . -}}
 	{{ template "_internal/google_analytics_async.html" . }}
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-RS13F4SMSQ"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-RS13F4SMSQ');
+	</script>
 	{{ end }}
 
 	{{ hugo.Generator }}

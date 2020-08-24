@@ -61,7 +61,7 @@ unsafe= true
     disable = true
   [privacy.googleAnalytics]
     anonymizeIP = false
-    disable = false
+    disable = true
     respectDoNotTrack = false
     useSessionStorage = false
   [privacy.instagram]
