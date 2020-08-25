@@ -41,7 +41,7 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 
 <h2>Speakers will announced as soon as CFP is closed!</h2>
 
-{{% /home-speakers %}}
+<!-- {{% /home-speakers %}} -->
 
 <!-- ... -->
 
