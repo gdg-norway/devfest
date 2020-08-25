@@ -21,7 +21,7 @@ menu:
 {{% /jumbo %}}
 
 
-{{% home-info what="Participants:3500,Days:2,Sessions:14,Fun:∞" class="primary" %}}
+{{% home-info what="Expected participants:1000,Days:2,Sessions:12,Fun:∞" class="primary" %}}
 
 ## What is Devfest Norway?
 
@@ -35,11 +35,11 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 
 ## Featured Speakers
 
-
 {{< button-link label="See all speakers"
                 url="./speakers"
                 icon="right" >}}
 
+<h2>Speakers will announced as soon as CFP is closed!</h2>
 
 {{% /home-speakers %}}
 

@@ -9,7 +9,7 @@ menu:
 
 {{% hero %}}
 
-Awesome team of ngVikings speakers
+Awesome team of Devfest speakers
 
 {{% /hero %}}
 
