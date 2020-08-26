@@ -2,5 +2,5 @@
 key: trondheim
 title: GDG Trondheim
 category: organizers
-website: '#'
+website: https://www.meetup.com/GDG-Trondheim/
 ---
