@@ -17,7 +17,7 @@ menu:
 
 <a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>  
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit yout talk<br/>before 15th September</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit yout talk<br/>before September 15th</a>
 
 {{% /jumbo %}}
 
@@ -25,7 +25,7 @@ menu:
 
 ## What is Devfest Norway?
 
-The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles.
+The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals, or simply curious technophiles.
 
 {{% /home-info %}}
 
@@ -39,9 +39,9 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
                 url="./speakers"
                 icon="right" >}} -->
 
-### Our awesome speakers will be announced very soon! please stay tuned!
+### We will start announcing our awesome speakers very soon. Please stay tuned!
 
-You might be our spkear this year? So please submit your talk proposals! <a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
+You might too be our speaker this year! Please submit your talk proposals following the link below. <a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
 
 {{% /home-speakers %}}
 
