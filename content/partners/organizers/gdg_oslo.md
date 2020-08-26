@@ -2,5 +2,5 @@
 key: oslo
 title: GDG Oslo
 category: organizers
-website: '#'
+website: https://www.meetup.com/GDGOslo/
 ---
