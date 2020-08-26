@@ -5,21 +5,21 @@ icon: home
 menu:
   main:
     weight: -1
-
 ---
 
 {{% jumbo %}}
+
 # DevFest Norway
 
 ## October 14-15th, Online
 
 ### Free conference for passionate developers
 
-<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://twitter.com/devefestnorway" target="_blank">Follow our Twitter to stay updated about our next event</a>   -->
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">CFP is open!</a>  
+<a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>  
+
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit yout talk<br/>before 15th September</a>
 
 {{% /jumbo %}}
-
 
 {{% home-info what="Expected participants:1000,Days:2,Sessions:12,Fun:∞" class="primary" %}}
 
@@ -35,13 +35,15 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 
 ## Featured Speakers
 
-{{< button-link label="See all speakers"
+<!-- {{< button-link label="See all speakers"
                 url="./speakers"
-                icon="right" >}}
+                icon="right" >}} -->
 
-<h2>Speakers will announced as soon as CFP is closed!</h2>
+### Our awesome speakers will be announced very soon! please stay tuned!
 
-<!-- {{% /home-speakers %}} -->
+You might be our spkear this year? So please submit your talk proposals! <a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
+
+{{% /home-speakers %}}
 
 <!-- ... -->
 
@@ -60,4 +62,5 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 {{% partners categories="sponsors=Sponsors,communities=Partners" %}}
 
 ## Our supporters
+
 {{% /partners %}}

@@ -21,7 +21,8 @@ googleAnalytics = "G-RS13F4SMSQ"
     keywords = "event, gde, google, programming, android, chrome, polymer, developers, web, cloud, GDG, GDG Cloud"
     copyright = "Devfest Norway Team"
     cfpUrl = "http://bit.ly/devfest-norway-2020-cfp"
-    subscriptionUrl = "#"
+    ticketUrl = "http://bit.ly/free-ticket-devfest-no"
+    subscriptionUrl = ""
     appleTouchIcon = "/manifest/icon-large.png"
     favicon32 = "/manifest/icon-large.png"
     favicon16 = "/manifest/icon-large.png"
@@ -30,6 +31,7 @@ googleAnalytics = "G-RS13F4SMSQ"
     themeColor = "#b4450e"
     googleWebmasterKey = ""
     env = "production"
+    mainSections = ["Home", "Supporters", "News", "Team"]
 
 [params.logos]
     jumbo = "/images/logos/logo.png"

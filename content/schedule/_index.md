@@ -14,8 +14,8 @@ horizontal: false
 All  times are in CEST timezone (GMT+2).
 
 <ul>
-<li><strong><a href="#">Full video of Day 1</a></strong>
-<li><strong><a href="#">Full video of Day 2</a></strong>
+  <li><strong><a href="#">Day 1 - Stream link</a></strong>
+  <li><strong><a href="#">Day 2 - Stream link</a></strong>
 </ul>
 
 {{% /hero %}}

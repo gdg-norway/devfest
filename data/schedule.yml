@@ -1,4 +1,4 @@
-- day: '2020-11-14'
+- day: '2020-10-14'
   start: '12:00'
   rooms:
     - room: online
@@ -23,7 +23,7 @@
           talk: __panel-2
         - slot: close-1
           talk: __close
-- day: '2020-11-15'
+- day: '2020-10-15'
   start: '09:30'
   rooms:
     - room: online
