@@ -2,5 +2,5 @@
 key: sorlandet
 title: GDG Sørlandet
 category: organizers
-website: '#'
+website: https://www.meetup.com/Google-Developer-Group-Sorlandet-GDG/
 ---
