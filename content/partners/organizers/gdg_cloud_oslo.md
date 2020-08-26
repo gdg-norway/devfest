@@ -1,6 +1,6 @@
 ---
 key: oslocloud
-title: GDG Cloud Olso
+title: GDG Cloud Oslo, Norway
 category: organizers
-website: '#'
+website: https://gdg.community.dev/gdg-cloud-oslo-norway/
 ---
