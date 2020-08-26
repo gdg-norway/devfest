@@ -18,10 +18,11 @@
 - title: Rustam Mehmandarov
   type: core
   subtitle: Organizer
-  photo: https://mehmandarov.com/assets/images/profile.jpg
   socials:
     - link: 'https://www.twitter.com/RMehmandarov'
       name: Twitter
+    - link: 'https://mehmandarov.com'
+      name: Site
     - link: 'https://github.com/mehmandarov'
       name: Github
   key: rustam_mehmandarov
