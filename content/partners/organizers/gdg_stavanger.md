@@ -2,5 +2,5 @@
 key: stavanger
 title: GDG Stavanger
 category: organizers
-website: '#'
+website: https://www.meetup.com/GDG-Stavanger/
 ---
