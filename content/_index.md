@@ -17,7 +17,7 @@ menu:
 
 <a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>  
 
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit yout talk<br/>before September 15th</a>
+<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit your talk<br/>before September 15th</a>
 
 {{% /jumbo %}}
 
