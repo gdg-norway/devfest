@@ -41,3 +41,14 @@
   type: core
   subtitle: Organizer
   key: vaibhav_bhutoria 
+
+- title: Sarah Fullmer
+  type: core
+  subtitle: Organizer
+  socials:
+    - link: 'https://www.linkedin.com/in/fullmersarah/'
+      name: Linkedin
+    - link: 'https://github.com/fullmers'
+      name: Github
+  key: sarah_fullmer
+  
