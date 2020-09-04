@@ -30,6 +30,9 @@
 - title: Prashant Bajpayee 
   type: core
   subtitle: Organizer
+  socials:
+    - link: 'https://www.linkedin.com/in/prashantbajpayee'
+      name: Linkedin
   key: prashant_bajpayee
 
 - title: Øyvind Randa 
