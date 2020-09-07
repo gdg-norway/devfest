@@ -13,7 +13,7 @@ menu:
 
 ## October 14-15th, Online
 
-### Free conference for passionate developers
+### A free conference for passionate developers
 
 <a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>  
 
@@ -23,9 +23,9 @@ menu:
 
 {{% home-info what="Expected participants:1000,Days:2,Sessions:12,Fun:∞" class="primary" %}}
 
-## What is Devfest Norway?
+## What is DevFest Norway?
 
-The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals, or simply curious technophiles.
+DevFests are annual community-led developer events hosted by Google Developer Groups (GDG's) all over the world. DevFest Norway 2020 is an online conference being hosted by the seven total GDG and GDG Cloud chapters in Norway. It is aimed at students, professionals, or simply curious technophiles. We are aiming to deliver a diverse panel of expert speakers on an exciting range of topics.
 
 {{% /home-info %}}
 
@@ -41,7 +41,8 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 
 ### We will start announcing our awesome speakers very soon. Please stay tuned!
 
-You might too be our speaker this year! Please submit your talk proposals following the link below. <a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
+You too might be our speaker this year! Please submit your talk proposals following the link below. 
+<a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
 
 {{% /home-speakers %}}
 
