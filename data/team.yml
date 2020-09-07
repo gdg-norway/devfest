@@ -29,24 +29,28 @@
     - link: 'https://www.linkedin.com/in/prashantbajpayee'
       name: Linkedin
   key: prashant_bajpayee
-
-- title: Øyvind Randa 
-  type: core
-  subtitle: Organizer
-  key: oyvind_randa 
-
-- title: Vaibhav Bhutoria 
-  type: core
-  subtitle: Organizer
-  key: vaibhav_bhutoria 
-
+  
 - title: Sarah Fullmer
   type: core
   subtitle: Organizer
   socials:
-    - link: 'https://www.linkedin.com/in/fullmersarah/'
+    - link: 'https://www.linkedin.com/in/fullmersarah'
       name: Linkedin
     - link: 'https://github.com/fullmers'
       name: Github
   key: sarah_fullmer
   
+#- title: Leonard Lee
+#  type: core
+#  subtitle: Organizer  
+#  key: leonard_lee
+
+#- title: Øyvind Randa 
+#  type: core
+#  subtitle: Organizer
+#  key: oyvind_randa 
+
+#- title: Vaibhav Bhutoria 
+#  type: core
+#  subtitle: Organizer
+#  key: vaibhav_bhutoria 
