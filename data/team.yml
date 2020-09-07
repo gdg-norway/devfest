@@ -50,7 +50,12 @@
 #  subtitle: Organizer
 #  key: oyvind_randa 
 
-#- title: Vaibhav Bhutoria 
-#  type: core
-#  subtitle: Organizer
-#  key: vaibhav_bhutoria 
+- title: Vaibhav Bhutoria 
+  type: core
+  subtitle: Organizer
+  socials:
+    - link: 'https://www.linkedin.com/in/vaibhav-bhutoria-167b7430/'
+      name: Linkedin
+    - link: 'https://github.com/vaibhavbhutoria'
+      name: Github
+  key: vaibhav_bhutoria 
