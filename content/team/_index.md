@@ -16,7 +16,7 @@ DevFest Norway is a Norwegian community-driven conference, and administratively 
 {{% /hero %}}
 
 
-{{< teams types="core=Core Team,contributors=Contributors,mcs=MCs" >}}
+{{< teams types="core=Core Team" >}}
 
 
 {{% partners categories="organizers=Organizing communities" %}}
