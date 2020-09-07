@@ -25,7 +25,7 @@ menu:
 
 ## What is DevFest Norway?
 
-DevFests are annual community-led developer events hosted by Google Developer Groups (GDG's) all over the world. DevFest Norway 2020 is an online conference being hosted by the seven total GDG and GDG Cloud chapters in Norway. It is aimed at students, professionals, or simply curious technophiles. We are aiming to deliver a diverse panel of expert speakers on an exciting range of topics.
+DevFests are annual community-led developer events hosted by Google Developer Groups (GDG's) all over the world. DevFest Norway 2020 is an online conference being hosted by the six total GDG and GDG Cloud chapters in Norway. It is aimed at students, professionals, or simply curious technophiles. We are aiming to deliver a diverse panel of expert speakers on an exciting range of topics!
 
 {{% /home-info %}}
 
@@ -39,9 +39,10 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
                 url="./speakers"
                 icon="right" >}} -->
 
-### We will start announcing our awesome speakers very soon. Please stay tuned!
+### We will start announcing our speakers soon. Stay tuned.
 
-You too might be our speaker this year! Please submit your talk proposals following the link below. 
+You too might be our speaker this year! Please submit your talk proposals by following the link below. 
+
 <a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
 
 {{% /home-speakers %}}
