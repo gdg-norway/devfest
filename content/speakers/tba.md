@@ -1,4 +1,4 @@
----
+<!-- ---
 key: tba
 name: TBA
 id: tba
@@ -10,4 +10,4 @@ images:
   - https://devfest.no/images/speakers/tba.png
 title: DevFest Norway 2020 speaker - TBA
 ---
-TBA
+TBA -->
