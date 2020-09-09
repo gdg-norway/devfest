@@ -45,10 +45,13 @@
 #  subtitle: Organizer  
 #  key: leonard_lee
 
-#- title: Øyvind Randa 
-#  type: core
-#  subtitle: Organizer
-#  key: oyvind_randa 
+- title: Øyvind Randa 
+  type: core
+  subtitle: Organizer
+  socials:
+    - link: 'https://twitter.com/oyvir'
+      name: Twitter
+  key: oyvind_randa 
 
 - title: Vaibhav Bhutoria 
   type: core
