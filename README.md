@@ -10,8 +10,7 @@ Website for devfest norway conference. This website is based on [GDGToulouse Dev
 * If you need to use tools, or deploy, you also need [NodeJS](https://nodejs.org/en/).
 
 ## Run Local site
-
-Just run
+Before you run you need to build static assets, so please run `npm run build` first and then run
 
 ```bash
 hugo server -D
