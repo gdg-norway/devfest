@@ -17,7 +17,7 @@
 		<nav>
 			<ul class="menu">
 				{{- $currentPage := . -}}
-				{{ range where .Site.Menus.main "Name" "in" site.Params.mainSections}}
+				{{ range .Site.Menus.main }}
 						<li>
 							<a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
 						</li>

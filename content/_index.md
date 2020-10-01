@@ -15,9 +15,7 @@ menu:
 
 ### A free conference for passionate developers
 
-<a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>  
-
-<a class="btn primary btn-lg" style="margin-top: 1em;" href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit your talk<br/>before September 15th</a>
+<a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>
 
 {{% /jumbo %}}
 
@@ -35,15 +33,9 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
 
 ## Featured Speakers
 
-<!-- {{< button-link label="See all speakers"
+{{< button-link label="See all speakers"
                 url="./speakers"
-                icon="right" >}} -->
-
-### We will start announcing our speakers soon. Stay tuned.
-
-You too might be our speaker this year! Please submit your talk proposals by following the link below. 
-
-<a class="btn"  href="http://bit.ly/devfest-norway-2020-cfp" target="_blank">Submit CFP</a>
+                icon="right" >}}
 
 {{% /home-speakers %}}
 
