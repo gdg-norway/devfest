@@ -34,7 +34,7 @@ Speaking Experience:
 * 2018 GDG Devfest Istanbul
 * 2018 Coderdojo Dojocon İstanbul  
 
-[Website](https://selinoid.wordpress.com/)
+**[Website](https://selinoid.wordpress.com/)**
 
 
 

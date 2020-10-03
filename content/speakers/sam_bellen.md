@@ -15,4 +15,4 @@ I'm Google Developer Expert (GDE) who works as a developer evangelist at Auth0. 
 
 After office hours, I like to play around with the web-audio API, and other "exotic" browser API's. One of my side projects is a library to add audio effects to an audio input using JavaScript.
 
-[Website](https://sambego.tech/)
+**[Website](https://sambego.tech/)**

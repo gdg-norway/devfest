@@ -15,4 +15,4 @@ Sharmistha Chatterjee is a Data Science Evangelist with vast professional experi
 
 She is an active blogger, speaker at different AI/ML conferences, Google Developer Expert in Machine Learning, and a Professional Cloud Architect.
 
-[Website](https://techairesearch.com/)
+**[Website](https://techairesearch.com/)**

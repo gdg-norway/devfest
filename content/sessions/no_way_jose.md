@@ -9,7 +9,7 @@ tags:
 level: beginner
 speakers:
   - sam_bellen
-draft: true
+draft: false
 ---
 
 Is your first thought when thinking about cryptography, “nope, that’s not for me!”? There’s no need to. When explained with simple examples, you can see the basics are not that complicated. The JavaScript Object Signing and Encryption, or JOSE for short is a framework that helps us deal with encryption. It describes ways to securely transfer data either signed (JWS) or encrypted (JWE). Let’s take a leap of faith and explore the wonderful world of cryptography together, shall we?
