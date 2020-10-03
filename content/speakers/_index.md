@@ -9,7 +9,7 @@ menu:
 
 {{% hero %}}
 
-Awesome team of Devfest speakers
+Our awesome DevFest speakers!
 
 {{% /hero %}}
 
