@@ -6,6 +6,7 @@ menu:
     weight: 10
 
 horizontal: false
+publishDate: 2020-10-05 10:00:00 +0200
 
 ---
 
