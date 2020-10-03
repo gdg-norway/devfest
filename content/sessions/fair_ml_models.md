@@ -2,7 +2,6 @@
 key: fair_ml_models
 title: Designing Fair Machine Learning Models
 id: fair_ml_models
-language: English
 format: conference
 tags:
   - _ai

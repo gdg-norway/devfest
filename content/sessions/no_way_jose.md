@@ -1,7 +1,6 @@
 ---
 key: no_way_jose
 title: No way, JOSE!
-id: no_way_jose
 language: English
 format: conference
 tags:

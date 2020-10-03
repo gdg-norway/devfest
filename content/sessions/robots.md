@@ -2,7 +2,6 @@
 key: robots
 title: My Journey Of Building Robots
 id: robots
-language: English
 format: conference
 tags:
   - _ai

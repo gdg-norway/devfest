@@ -2,7 +2,6 @@
 key: angular_material_design
 title: Angular Material Design
 id: angular_material_design
-language: English
 format: conference
 tags:
   - _web

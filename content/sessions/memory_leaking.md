@@ -2,7 +2,6 @@
 key: memory_leaking
 title: Help! My Memory is Leaking
 id: memory_leaking
-language: English
 format: conference
 tags:
   - _backend

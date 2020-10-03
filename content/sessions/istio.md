@@ -2,7 +2,6 @@
 key: istio
 title: Istio, your kubernetes cluster best friend ❤️
 id: istio
-language: English
 format: conference
 tags:
   - _backend

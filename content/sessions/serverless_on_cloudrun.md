@@ -2,7 +2,6 @@
 key: serverless_on_cloudrun
 title: CI/CD for Serverless Applications on CloudRun
 id: serverless_on_cloudrun
-language: English
 format: conference
 tags:
   - _backend
