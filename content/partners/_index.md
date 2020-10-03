@@ -16,6 +16,6 @@ We thank our friends for the support
 
 <!-- Parteners list -->
 
-{{% partners categories="organizers=Organizers,sponsors=Sponsors,communities=Partners" %}}
+{{% partners categories="sponsors=Sponsors,communities=Partners" %}}
 
 {{% /partners %}}
