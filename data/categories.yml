@@ -1,9 +1,9 @@
 - key: _web
   name: "\U0001F916 Web"
   id: _web
-- key: _cloud
-  name: "\U0001F329 Cloud"
-  id: _cloud
+- key: _backend
+  name: "\U0001F329 Back-end"
+  id: _backend
 - key: _ai
   name: "\U0001F4DF AI/ML"
   id: _ai
