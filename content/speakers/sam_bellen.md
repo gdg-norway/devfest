@@ -7,7 +7,7 @@ company: ''
 city: 'Belgium'
 photoURL: /images/speakers/sam_bellen.png
 images:
-  - https://devfest.no/images/speakers/sam_bellen..png
+  - https://devfest.no/images/speakers/sam_bellen.png
 title: No way, JOSE!
 ---
 
