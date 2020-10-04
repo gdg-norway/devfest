@@ -2,7 +2,7 @@
 key: directives_in_angular
 title: Directives in Angular
 id: directives_in_angular
-format: ligtning
+format: lightning
 tags:
   - _web
 level: beginner
