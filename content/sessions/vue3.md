@@ -2,7 +2,7 @@
 key: vue3
 title: Vue 3
 id: vue3
-format: ligtning
+format: lightning
 tags:
   - _web
 level: beginner
