@@ -6,8 +6,7 @@ format: conference
 tags:
   - _ai
   - _mobile
-level: 
-  - beginner
+level: beginner
 speakers:
   - hakon_silfvernagel
 draft: false
