@@ -5,8 +5,7 @@ id: multiplatform_triatholin_in_kotlin
 format: conference
 tags:
   - _mobile
-level: 
-  - beginner
+level: beginner
 speakers:
   - carlos_mota
 draft: false

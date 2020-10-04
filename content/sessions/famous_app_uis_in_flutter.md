@@ -5,7 +5,7 @@ id: famous_app_uis_in_flutter
 format: lightning
 tags:
   - _mobile
-level: advanced
+level: beginner
 speakers:
   - sakina_abbas
 draft: false
