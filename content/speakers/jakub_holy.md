@@ -5,7 +5,7 @@ id: jakub_holy
 feature: true
 company: ''
 city: 'Norway'
-photoURL: /images/speakers/ashita_prasad.png
+photoURL: /images/speakers/jakub_holy.png
 images:
   - https://devfest.no/images/speakers/jakub_holy.png
 title: Want more from your frontend framework! Re-thinking web dev experience
