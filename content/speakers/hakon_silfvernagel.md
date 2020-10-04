@@ -5,7 +5,7 @@ id: hakon_silfvernagel
 feature: true
 company: ''
 city: 'Norway'
-photoURL: /images/speakers/hakon_silfvernagel.png
+photoURL: /images/speakers/hakan_silfvernagel.png
 images:
   - https://devfest.no/images/speakers/hakon_silfvernagel.png
 title: Machine learning on the edge using TensorFlow Lite
