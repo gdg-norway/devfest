@@ -2,14 +2,13 @@
 key: waleed_arshad
 name: Waleed Arshad
 id: waleed_arshad
-feature: false
+feature: true
 company: ''
 city: 'Pakistan'
 photoURL: /images/speakers/waleed_arshad.png
 images:
   - https://devfest.no/images/speakers/waleed_arshad.png
 title: Making your Flutter apps secure
-publishDate: 2020-10-05 10:00:00 +0200
 ---
 
 Waleed Arshad is a mobile technologist, a core developer, and one of the founders of Flutter Pakistan (a Flutter community in Pakistan). He has recently been titled as the first person from Pakistan to become a Google Developer Expert in Flutter. He mainly focuses on developing cross-platform mobile applications on Flutter and is always inclined towards consistently coming up with leading-edge technology orientations. 

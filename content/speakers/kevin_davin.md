@@ -9,7 +9,6 @@ photoURL: /images/speakers/kevin_davin.png
 images:
   - https://devfest.no/images/speakers/kevin_davin.png
 title: Istio, your kubernetes cluster best friend ❤️
-publishDate: 2020-10-04 10:00:00 +0200
 ---
 
 A Google Developer Expert on Google Cloud and Gitlab Hero, I am above all passionate about tech, languages, infrastructure, and automation. Java, Kotlin, TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the GitLab's Continuous Integration 🚀.

@@ -2,14 +2,13 @@
 key: hakon_silfvernagel
 name: Håkan Silfvernagel
 id: hakon_silfvernagel
-feature: false
+feature: true
 company: ''
 city: 'Norway'
 photoURL: /images/speakers/hakon_silfvernagel.png
 images:
   - https://devfest.no/images/speakers/hakon_silfvernagel.png
 title: Machine learning on the edge using TensorFlow Lite
-publishDate: 2020-10-06 10:00:00 +0200
 ---
 
 Håkan holds a Master of Science degree in Electrical Engineering and in addition, he holds a Master’s degree in Leadership and Organizational behavior. He has also taken courses on university level in psychology, interaction design and human-computer interaction. He has 20 years’ experience of software development in various positions such as developer, tester, architect, project manager, scrum master, practice manager and team lead. 
