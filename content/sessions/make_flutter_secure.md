@@ -5,8 +5,7 @@ id: make_flutter_secure
 format: conference
 tags:
   - _mobile
-level: 
-  - advanced
+level: advanced
 speakers:
   - waleed_arshad
 draft: false
