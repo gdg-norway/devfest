@@ -10,7 +10,6 @@ level:
 speakers:
   - carlos_mota
 draft: false
-publishDate: 2020-10-05 10:00:00 +0200
 ---
 
 Do you ever had the dream that you could develop for one platform and you could easily reuse the code and create an app on another platform? Yup, there's Kotlin Multiplatform 🙌

@@ -9,7 +9,6 @@ level: advanced
 speakers:
   - dharmesh_vaya
 draft: false
-publishDate: 2020-10-04 10:00:00 +0200
 ---
 
 This is a hands-on demo of building a CI/CD pipeline for a web application deployed as a Serverless app using CloudRun.

@@ -9,7 +9,6 @@ level: advanced
 speakers:
   - kevin_davin
 draft: false
-publishDate: 2020-10-04 10:00:00 +0200
 ---
 
 In a distributed world, we are facing new challenges. Circuit-breaker, retry, timeout, blue-green deployment, A/B testing, pool-ejection... replace our old monolith problem.

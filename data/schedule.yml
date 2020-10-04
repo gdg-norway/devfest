@@ -6,21 +6,17 @@
         - slot: open-1
           talk: __open
         - slot: slot-1
-          talk: TBA
+          talk: angular_material_design
         - slot: slot-2
-          talk: TBA
+          talk: fair_ml_models
         - slot: slot-3
-          talk: TBA
-        - slot: panel-1
-          talk: __panel-1
+          talk: flutter_ecosystem
         - slot: slot-4
-          talk: TBA
+          talk: istio
         - slot: slot-5
-          talk: TBA
+          talk: make_flutter_secure
         - slot: slot-6
-          talk: TBA
-        - slot: panel-2
-          talk: __panel-2
+          talk: memory_leaking
         - slot: close-1
           talk: __close
 - day: '2020-10-15'
@@ -31,20 +27,16 @@
         - slot: open-2
           talk: __open
         - slot: slot-8
-          talk: TBA
+          talk: ml_using_tensorflow_lite
         - slot: slot-9
-          talk: TBA
+          talk: multiplatform_triatholin_in_kotlin
         - slot: slot-10
-          talk: TBA
-        - slot: panel-3
-          talk: __panel-3
+          talk: no_way_jose
         - slot: slot-11
-          talk: TBA
+          talk: serverless_on_cloudrun
         - slot: slot-12
-          talk: TBA
+          talk: ml_using_tensorflow_lite
         - slot: slot-13
-          talk: TBA
-        - slot: panel-4
-          talk: __panel-4
+          talk: ml_using_tensorflow_lite
         - slot: close-2
           talk: __close
