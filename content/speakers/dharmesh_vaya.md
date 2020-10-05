@@ -11,8 +11,6 @@ images:
 title: CI/CD for Serverless Applications on CloudRun
 ---
 
-I'm Google Developer Expert (GDE) who works as a developer evangelist at Auth0. At Auth0 we're trying to make authentication and identification as easy as possible, while still keeping it secure.
-
-After office hours, I like to play around with the web-audio API, and other "exotic" browser API's. One of my side projects is a library to add audio effects to an audio input using JavaScript.
+Dharmesh is a technologist known for his ability of developing enterprise applications on Cloud Platforms and fostering a spirit of innovation among teams, with a diverse experience around Banking, e-Commerce, Media/Entertainment to name a few. He is a Google Developer Expert for Google Cloud Platform/Payments and actively manages Google Cloud Developers Community, Mumbai.
 
 **[Twitter](https://twitter.com/DRVaya)**
