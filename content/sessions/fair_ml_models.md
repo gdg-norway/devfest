@@ -8,6 +8,7 @@ tags:
 level: beginner
 speakers:
   - sharmistha_chatterjee
+  - charmi_chokshi
 draft: false
 ---
 
