@@ -4,7 +4,7 @@ title: Want more from your frontend framework! Re-thinking web dev experience
 id: want_more_from_your_frontend
 format: conference
 tags:
-  - _frontend
+  - _web
 level: advanced
 speakers:
   - jakub_holy

@@ -3,7 +3,7 @@ key: emma_twersky
 name: Emma Twersky
 id: emma_twersky
 feature: true
-company: ''
+company: 'Google'
 city: 'U.S.A.'
 photoURL: /images/speakers/emma_twersky.png
 images:
