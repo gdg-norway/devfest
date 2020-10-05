@@ -1,13 +1,13 @@
 ---
-key: selina_ornek
+key: selin_ornek
 name: Selin Alara Ornek
-id: selina_ornek
+id: selin_ornek
 feature: true
 company: ''
 city: Turkey
-photoURL: /images/speakers/selina_ornek.png
+photoURL: /images/speakers/selin_ornek.jpg
 images:
-  - https://devfest.no/images/speakers/tba.png
+  - https://devfest.no/images/speakers/selin_ornek.png
 title: My Journey Of Building Robots
 ---
 

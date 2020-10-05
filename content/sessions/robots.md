@@ -7,7 +7,7 @@ tags:
   - _ai
 level: beginner
 speakers:
-  - selina_ornek
+  - selin_ornek
 draft: false
 ---
 
