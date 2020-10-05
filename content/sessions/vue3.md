@@ -11,8 +11,6 @@ speakers:
 draft: false
 ---
 
-Let's look at what's new in Vue.js 3!
+Vue 3 was recently released! Let's look at what's new in Vue.js 3.
 
-Wait, you don't know Vue? No problem, I will start the talk with a crash course on what Vue is and how to create websites with the framework.
-
-Then I will talk about what changes have been made to Vue and the new Composition API.
+The new composition API, Fragments, Teleport, performance improvements, and better TypeScript support are some good changes to the JavaScript framework
