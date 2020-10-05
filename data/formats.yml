@@ -7,3 +7,9 @@
   name: Opening
 - key: panel
   name: Panel discussion
+- key: lightning
+  name: Lightning talk
+- key: break
+  name: break
+- key: quiz
+  name: Quiz

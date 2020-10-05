@@ -10,7 +10,6 @@ level:
 speakers:
   - ashita_prasad
 draft: false
-publishDate: 2020-10-05 10:00:00 +0200
 ---
 
 "Flutter is more than just an engine, a set of widgets, and some tools; it also includes a large ecosystem of packages to add functionality to your apps beyond what comes out of the box" - Chris Sells, Google Product Manager - Flutter.

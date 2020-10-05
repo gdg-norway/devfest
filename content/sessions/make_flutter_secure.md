@@ -5,12 +5,10 @@ id: make_flutter_secure
 format: conference
 tags:
   - _mobile
-level: 
-  - advanced
+level: advanced
 speakers:
   - waleed_arshad
 draft: false
-publishDate: 2020-10-05 10:00:00 +0200
 ---
 
 Security is one of the top concerns for Product Owners and higher management. This talk shows some cool ways you can look into as a developer to make your Flutter apps secure.

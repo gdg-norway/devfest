@@ -9,7 +9,6 @@ level: advanced
 speakers:
   - gil_fink
 draft: false
-publishDate: 2020-10-04 10:00:00 +0200
 ---
 
  In this session we will learn how to track JavaScript memory leaks.
