@@ -5,8 +5,7 @@ id: flutter_ecosystem
 format: lightning
 tags:
   - _mobile
-level: 
-  - beginner
+level: beginner
 speakers:
   - ashita_prasad
 draft: false
