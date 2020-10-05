@@ -13,8 +13,8 @@
           talk: fair_ml_models
         - slot: slot-quiz
           talk: __quiz
-        - slot: slot-5
-          talk: __herotalk
+        - slot: slot-hero
+          talk: __hero
         - slot: slot-6
           talk: serverless_on_cloudrun
         - slot: slot-7
@@ -41,18 +41,16 @@
         - slot: slot-13
           talk: famous_app_uis_in_flutter
         - slot: slot-14
-          talk: __break
-        - slot: slot-15
           talk: no_way_jose
-        - slot: slot-16
+        - slot: slot-15
           talk: want_more_from_your_frontend
-        - slot: slot-17
+        - slot: slot-16
           talk: beyond_es6
-        - slot: slot-18
+        - slot: slot-17
           talk: vue3
-        - slot: slot-19
+        - slot: slot-18
           talk: directives_in_angular
-        - slot: slot-20
+        - slot: slot-19
           talk: angular_material_design
         - slot: close-2
           talk: __close

@@ -22,42 +22,42 @@
   row:
     start: 6
     end: 8
-- key: quiz-1
+- key: slot-quiz
   start: '13:30'
   duration: 15
   row:
     start: 8
-    end: 10
-- key: slot-5
+    end: 9
+- key: slot-hero
   start: '13:45'
   duration: 15
   row:
-    start: 10
-    end: 12
+    start: 9
+    end: 10
 - key: slot-6
   start: '14:00'
   duration: 30
   row:
-    start: 12
-    end: 14
+    start: 10
+    end: 12
 - key: slot-7
   start: '14:30'
   duration: 30
   row:
-    start: 14
-    end: 16
+    start: 12
+    end: 14
 - key: slot-8
   start: '15:00'
   duration: 30
   row:
-    start: 16
-    end: 18
+    start: 14
+    end: 16
 - key: close-1
   start: '15:30'
   duration: 15
   row:
-    start: 18
-    end: 20
+    start: 16
+    end: 17
 - key: open-2
   start: '12:00'
   duration: 5
@@ -87,52 +87,52 @@
   duration: 15
   row:
     start: 8
-    end: 9
+    end: 10
 - key: slot-13
   start: '13:45'
   duration: 15
   row:
-    start: 9
-    end: 10
-- key: slot-15
+    start: 10
+    end: 12
+- key: slot-14
   start: '14:00'
   duration: 30
   row:
-    start: 10
-    end: 12
-- key: slot-16
+    start: 12
+    end: 14
+- key: slot-15
   start: '14:30'
   duration: 20
   row:
-    start: 12
-    end: 14
-- key: slot-17
+    start: 14
+    end: 16
+- key: slot-16
   start: '15:00'
   duration: 30
   row:
-    start: 14
-    end: 16
-- key: slot-18
-  start: '12:15'
-  duration: 15
-  row:
     start: 16
-    end: 17
-- key: slot-19
-  start: '15:45'
-  duration: 15
-  row:
-    start: 17
     end: 18
-- key: slot-20
-  start: '16:00'
-  duration: 30
+- key: slot-17
+  start: '15:30'
+  duration: 15
   row:
     start: 18
     end: 20
-- key: close-2
-  start: '12:25'
-  duration: 5
+- key: slot-18
+  start: '15:45'
+  duration: 15
   row:
     start: 20
-    end: 21
+    end: 22
+- key: slot-19
+  start: '16:00'
+  duration: 30
+  row:
+    start: 22
+    end: 24
+- key: close-2
+  start: '16:30'
+  duration: 5
+  row:
+    start: 24
+    end: 25
