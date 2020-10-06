@@ -11,4 +11,4 @@ speakers:
 draft: false
 ---
 
-I will be talking about the types of directives that are available in Angular and the usecases for the same.
+In this talk, we will be briefly touching upon what are directives and different kinds of directives available in  Angular ..

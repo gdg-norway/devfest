@@ -12,6 +12,6 @@ title:
   - Directives in Angular 
 ---
 
-I am a Software Engineer with focus on frontend technologies on Angular, React, Javascript, etc, with industry experience of around 3 years. Besides my regular job, I am an ambassador for GDG/WTM Chennai community. More info can be found here https://gdg.community.dev/gdg-chennai/, where we conduct technical meetups, conferences, workshops to develop tech and soft skills for the local developer community. And a PROUD feminist.
+Nivetha Maran is a Software engineer at Fourkites, technical speaker and a community leader . She is skilled in frontend technologies like Angular, React , Javascript, etc and has around 3 years of industry experience. Besides her regular job, she also manages Google Developers Group and Womentechmakers Chennai for almost 2 years . She loves to give tech talks around Angular and other web technologies at conferences. And most importantly she loves coffee more than anything :P
 
 **[Twitter](https://twitter.com/NivethaMaran)**
