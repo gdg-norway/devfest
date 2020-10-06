@@ -20,36 +20,36 @@
 
 // Custom CSS
 .jumbo .jumbo-cover {
-  background-image: url("/images/backgrounds/back-0.webp");
+  background-image: url("/images/backgrounds/mobile_banner.png");
 
   @include mq($until: sm) {
-    background-image: url("/images/backgrounds/back-0-540.webp");
+    background-image: url("/images/backgrounds/mobile_banner.png.jpg");
   }
   @include mq($until: md) {
-    background-image: url("/images/backgrounds/back-0-720.webp");
+    background-image: url("/images/backgrounds/desktop_banner.png");
   }
   @include mq($until: lg) {
-    background-image: url("/images/backgrounds/back-0-960.webp");
+    background-image: url("/images/backgrounds/desktop_banner.png");
   }
   @include mq($until: xl) {
-    background-image: url("/images/backgrounds/back-0-1140.webp");
+    background-image: url("/images/backgrounds/full_banner.png");
   }
 }
 
 .no-webp .jumbo .jumbo-cover {
-  background-image: url("/images/backgrounds/back-0.jpg");
+  background-image: url("/images/backgrounds/mobile_banner.png");
 
   @include mq($until: sm) {
-    background-image: url("/images/backgrounds/back-0-540.jpg");
+    background-image: url("/images/backgrounds/mobile_banner.png.jpg");
   }
   @include mq($until: md) {
-    background-image: url("/images/backgrounds/back-0-720.jpg");
+    background-image: url("/images/backgrounds/desktop_banner.png");
   }
   @include mq($until: lg) {
-    background-image: url("/images/backgrounds/back-0-960.jpg");
+    background-image: url("/images/backgrounds/desktop_banner.png");
   }
   @include mq($until: xl) {
-    background-image: url("/images/backgrounds/back-0-1140.jpg");
+    background-image: url("/images/backgrounds/full_banner.png");
   }
 }
 
