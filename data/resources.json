@@ -127,16 +127,8 @@
     "sessions": "Sessions"
   },
   "aboutOrganizerBlock": {
-    "image": "/images/team.jpg",
+    "image": "/images/logo_big.png",
     "blocks": [
-      {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
-        "callToAction": {
-          "label": "Open team page",
-          "link": "/team"
-        }
-      },
       {
         "title": "What is a GDG?",
         "description": "A Google Developer Group is a community of volunteers who create exciting projects and share experiences about Google technologies.",

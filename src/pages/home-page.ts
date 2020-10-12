@@ -203,6 +203,7 @@ export class HomePage extends ReduxMixin(PolymerElement) {
       {% endif %}
       <about-block></about-block>
       <speakers-block></speakers-block>
+      <about-organizer-block></about-organizer-block>
       <partners-block></partners-block>
       <footer-block></footer-block>
     `;
