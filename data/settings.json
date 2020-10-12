@@ -1,0 +1,156 @@
+{
+  "organizer": {
+    "name": "GDGs of Norway",
+    "twitter": "devfestnorway"
+  },
+  "startDate": "2020-10-014T12:00:00+02:00",
+  "endDate": "2020-10-15T17:05:00+02:00",
+  "webapp": {
+    "shortName": "DevFest",
+    "themeColor": "#673AB7",
+    "backgroundColor": "#673AB7"
+  },
+  "dateFormat": {
+    "locale": "en-US"
+  },
+  "hashtag": "DevFest",
+  "disabledSchedule": false,
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Team"
+    }
+  ],
+  "heroSettings": {
+    "home": {
+      "description": "An online conference for passionate developers!",
+      "background": {
+        "image": "/images/backgrounds/desktop_banner.png"
+      },
+      "fontColor": "#FFF"
+    },
+    "speakers": {
+      "title": "Speakers",
+      "metaDescription": "Get to know the GDEs, Googlers, and honored Guest Speakers that are speaking at DevFest Norway 2020.",
+      "description": "Get to know the GDEs, Googlers, and honored Guest Speakers that are speaking at DevFest Norway 2020.",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
+    },
+    "schedule": {
+      "title": "Schedule",
+      "metaDescription": "Choose your sessions to visit",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "team": {
+      "title": "Team",
+      "metaDescription": "Meet the organizers who made this event happen",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "faq": {
+      "title": "FAQs",
+      "metaDescription": "Find you answer right here!",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "coc": {
+      "title": "Code of Conduct",
+      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    }
+  },
+  "mediaQueries": {
+    "xs": {
+      "max": "639px"
+    },
+    "sm": {
+      "min": "640px",
+      "max": "811px"
+    },
+    "md": {
+      "min": "812px",
+      "max": "1023px"
+    },
+    "lg": {
+      "min": "1024px"
+    }
+  },
+  "socialNetwork": {
+    "follow": [
+      {
+        "name": "meetup",
+        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/devfest.ukraine/"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/devfest_ukraine/"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/devfestukraine"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      }
+    ],
+    "share": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sharer.php?u="
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/intent/tweet?text="
+      }
+    ]
+  },
+  "mailto": "contact@devfest.no",
+  "contentLoaders": {
+    "schedule": {
+      "itemsCount": 2
+    },
+    "speakers": {
+      "itemsCount": 4
+    },
+    "previousSpeakers": {
+      "itemsCount": 6
+    },
+    "tickets": {
+      "itemsCount": 5
+    }
+  },
+  "showForkMeBlockForProjectIds": ["hoverboard-master", "hoverboard-dev"]
+}
