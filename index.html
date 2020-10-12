@@ -188,5 +188,23 @@
         }
       };
     </script>
+
+    <script>
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker
+    .register('/sw.js')
+    .then(function (registration) {
+      // registration worked
+      console.log('Registration succeeded.');
+      registration.unregister().then(function (result) {
+        console.log(result ? 'unregister is successful' : 'unregister is unsuccessful');
+      });
+    })
+    .catch(function (error) {
+      console.log('Registration failed with ' + error);
+    });
+}
+
+    </script>
   </body>
 </html>
