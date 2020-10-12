@@ -52,7 +52,7 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
           height: 32px;
           background-color: var(--default-primary-color);
           transition: background-color var(--animation);
-          -webkit-mask: url('/images/logo-monochrome.svg') no-repeat;
+          -webkit-mask: url('/images/logo_white_background.png') no-repeat;
         }
 
         .nav-items {
@@ -204,12 +204,6 @@ export class HeaderToolbar extends ReduxMixin(PolymerElement) {
             </div>
           </div>
         </paper-menu-button>
-
-        <paper-icon-button
-          icon="hoverboard:account"
-          on-click="signIn"
-          hidden$="[[_isAccountIconHidden(user.signedIn, viewport.isLaptopPlus)]]"
-        ></paper-icon-button>
       </app-toolbar>
     `;
   }
