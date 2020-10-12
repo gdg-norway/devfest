@@ -4,7 +4,7 @@ import { Social } from './social';
 export interface Speaker {
   badges?: Badge[];
   bio: string;
-  company: string;
+  company?: string;
   companyLogo: string;
   companyLogoUrl: string;
   country: string;
