@@ -1,7 +1,7 @@
 {
   "title": "GDG DevFest Season 2020",
   "description": "An online conference for passionate developers!",
-  "image": "images/social-share.jpg",
+  "image": "/images/social_1.png",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "October 14-15, 2020",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
@@ -34,23 +34,8 @@
       "title": "About",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
-          "newTab": true
-        },
-        {
-          "name": "GDG",
-          "url": "https://developers.google.com/groups/",
-          "newTab": true
-        },
-        {
           "name": "DevFest",
           "url": "https://devfest.withgoogle.com/",
-          "newTab": true
-        },
-        {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
           "newTab": true
         }
       ]
