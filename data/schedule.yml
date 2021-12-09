@@ -1,56 +1,26 @@
-- day: '2020-10-14'
-  start: '12:00'
-  rooms:
-    - room: online
-      slots:
-        - slot: open-1
-          talk: __open
-        - slot: slot-1
-          talk: robots
-        - slot: slot-2
-          talk: ml_using_tensorflow_lite
-        - slot: slot-3
-          talk: fair_ml_models
-        - slot: slot-quiz
-          talk: __quiz
-        - slot: slot-hero
-          talk: __hero
-        - slot: slot-6
-          talk: serverless_on_cloudrun
-        - slot: slot-7
-          talk: istio
-        - slot: slot-8
-          talk: memory_leaking
-        - slot: close-1
-          talk: __close
-- day: '2020-10-15'
-  start: '12:00'
-  rooms:
-    - room: online
-      slots:
-        - slot: open-2
-          talk: __open
-        - slot: slot-9
-          talk: make_flutter_secure
-        - slot: slot-10
-          talk: mobile_devops
-        - slot: slot-11
-          talk: multiplatform_triatholin_in_kotlin
-        - slot: slot-12
-          talk: flutter_ecosystem
-        - slot: slot-13
-          talk: famous_app_uis_in_flutter
-        - slot: slot-14
-          talk: no_way_jose
-        - slot: slot-15
-          talk: want_more_from_your_frontend
-        - slot: slot-16
-          talk: beyond_es6
-        - slot: slot-17
-          talk: vue3
-        - slot: slot-18
-          talk: directives_in_angular
-        - slot: slot-19
-          talk: angular_material_design
-        - slot: close-2
-          talk: __close
+#- day: '2022-01-22'
+#  start: '12:00'
+#  rooms:
+#    - room: online
+#      slots: #FIXME
+#        - slot: open-1
+#          talk: __open
+#        - slot: slot-1
+#          talk:
+#        - slot: slot-2
+#          talk:
+#        - slot: slot-3
+#          talk:
+#        - slot: slot-quiz
+#          talk: __quiz
+#        - slot: slot-hero
+#          talk: __hero
+#        - slot: slot-6
+#          talk:
+#        - slot: slot-7
+#          talk:
+#        - slot: slot-8
+#          talk:
+#        - slot: close-1
+#          talk: __close
+         
