@@ -1,4 +1,4 @@
-# devfest 2020 website
+# devfest website
 
 Website for devfest norway conference. This website is based on [GDGToulouse DevFest](https://github.com/GDGToulouse/site-devfest-2020/) project.
 
