@@ -1,7 +1,7 @@
 {
-  "name": "devfest-2020",
+  "name": "devfest-2021",
   "version": "1.0.0",
-  "repository": "https://github.com/gdg-norway/devfest-2020",
+  "repository": "https://github.com/gdg-norway/devfest-2021",
   "license": "MIT",
   "scripts": {
     "build:images": "node tools/images.js",
