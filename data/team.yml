@@ -40,10 +40,10 @@
       name: Github
   key: sarah_fullmer
   
-#- title: Leonard Lee
-#  type: core
-#  subtitle: Organizer  
-#  key: leonard_lee
+- title: Leonard Lee
+  type: core
+  subtitle: Organizer  
+  key: leonard_lee
 
 - title: Øyvind Randa 
   type: core
@@ -61,4 +61,14 @@
       name: Linkedin
     - link: 'https://github.com/vaibhavbhutoria'
       name: Github
-  key: vaibhav_bhutoria 
+  key: vaibhav_bhutoria
+
+- title: Tannaz N. Roshandel
+  type: core
+  subtitle: Organizer
+  socials:
+    - link: 'https://www.twitter.com/tannaznvr'
+      name: Twitter
+    - link: 'https://www.linkedin.com/in/tannaznvr'
+      name: Linkedin
+  key: tannaz_roshandel
