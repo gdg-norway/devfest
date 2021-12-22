@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Devfest Norway 2022</title>
+    <title>Home on DevFest Norway 2022</title>
     <link>/</link>
-    <description>Recent content in Home on Devfest Norway 2022</description>
+    <description>Recent content in Home on DevFest Norway 2022</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -38,7 +38,7 @@ In such an environment, speed is key.</description>
     </item>
     
     <item>
-      <title>Get ready for Devfest Norway 2020!</title>
+      <title>Get ready for DevFest Norway 2020!</title>
       <link>/blog/get-ready-for-2020/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
@@ -213,7 +213,7 @@ Website Twitter</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/faq/</guid>
-      <description>General What is Devfest Norway? The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles.
+      <description>General What is DevFest Norway? The DevFest, or ‘Developers Festival’, is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles.
 Organizing communities  GDG Oslo GDG cloud Oslo GDG Bergen GDG Trondheim GDG Sørlandet GDG Stavanger  </description>
     </item>
     

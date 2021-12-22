@@ -1,5 +1,5 @@
 {
-  "name": "Devfest 2020",
+  "name": "DevFest 2020",
   "short_name": "devfest",
   "icons": [
     { "src": "/manifest/icon-72.png", "sizes": "48x48", "type": "image/png" },
