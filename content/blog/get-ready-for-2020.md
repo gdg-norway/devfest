@@ -1,5 +1,5 @@
 ---
-title: Get ready for Devfest Norway 2020!
+title: Get ready for DevFest Norway 2020!
 brief: Dear friends! We have great news for you ❤️
 image: /images/blog/group.jpg
 date: 2020-08-24
@@ -14,6 +14,6 @@ Stay tuned! 🚀
 
 ## What's next?
 
-* [Get your free ticket](#) to receive a link to the stream before the event start.
+- [Get your free ticket](#) to receive a link to the stream before the event start.
 
 We will post all updates on our Twitter [@devfestno](https://twitter.com/devfestno/), stay tuned!
