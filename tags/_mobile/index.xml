@@ -1,9 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>_mobile on Devfest Norway 2020</title><link>/tags/_mobile/</link><description>Recent content in _mobile on Devfest Norway 2020</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/_mobile/index.xml" rel="self" type="application/rss+xml"/><item><title>Famous App UIs Broken Down in Flutter Widgets</title><link>/sessions/famous_app_uis_in_flutter/</link><pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate><guid>/sessions/famous_app_uis_in_flutter/</guid><description>User Interfaces of famous Mobile Apps will be deconstructed to the basic Flutter widgets, which, when put together, can replicate those very UIs in Flutter! This session will equip Flutter Developers with critical UI observation skills to drive insights required to build a stellar UI in Flutter, and that too, in minimum time.
-In this Talk, I’ll go over the User Interfaces of 2-3 most famous Mobile Apps. I’ll handpick some of the core screens of these apps, explaining my observation on the UI elements for each of them, and then deconstructing each of those elements to their equivalent Flutter widgets and their collective placements and styling.</description></item><item><title>Tales of a Mobile DevOps</title><link>/sessions/mobile_devops/</link><pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate><guid>/sessions/mobile_devops/</guid><description>There is a lot of material on developing mobile apps, but how about shipping it to the real world? In this session we will go through what is the role of a Mobile Infrastructure team and why is crucial to let your app reach your end users.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_mobile on Devfest Norway 2022</title>
+    <link>/tags/_mobile/</link>
+    <description>Recent content in _mobile on Devfest Norway 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/_mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Famous App UIs Broken Down in Flutter Widgets</title>
+      <link>/sessions/famous_app_uis_in_flutter/</link>
+      <pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>/sessions/famous_app_uis_in_flutter/</guid>
+      <description>User Interfaces of famous Mobile Apps will be deconstructed to the basic Flutter widgets, which, when put together, can replicate those very UIs in Flutter! This session will equip Flutter Developers with critical UI observation skills to drive insights required to build a stellar UI in Flutter, and that too, in minimum time.
+In this Talk, I’ll go over the User Interfaces of 2-3 most famous Mobile Apps. I’ll handpick some of the core screens of these apps, explaining my observation on the UI elements for each of them, and then deconstructing each of those elements to their equivalent Flutter widgets and their collective placements and styling.</description>
+    </item>
+    
+    <item>
+      <title>Tales of a Mobile DevOps</title>
+      <link>/sessions/mobile_devops/</link>
+      <pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>/sessions/mobile_devops/</guid>
+      <description>There is a lot of material on developing mobile apps, but how about shipping it to the real world? In this session we will go through what is the role of a Mobile Infrastructure team and why is crucial to let your app reach your end users.
 If you&amp;rsquo;re developing mobile apps, you probably know what&amp;rsquo;s one of your most important KPI: Store Rating.
-In such an environment, speed is key.</description></item><item><title>A Multiplatform triathlon -- Kotlin through Android, iOS and web</title><link>/sessions/multiplatform_triatholin_in_kotlin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/multiplatform_triatholin_in_kotlin/</guid><description>Do you ever had the dream that you could develop for one platform and you could easily reuse the code and create an app on another platform? Yup, there&amp;rsquo;s Kotlin Multiplatform 🙌
-For several years now, we’ve been trying to find new solutions on how we could develop a single project and run it on all platforms. We’ve been seeing all types of solutions: some are web-based, others require you to learn a new language, and others even may require that you pay a monthly fee to use.</description></item><item><title>Machine learning on the edge using TensorFlow Lite</title><link>/sessions/ml_using_tensorflow_lite/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/ml_using_tensorflow_lite/</guid><description>What if you could perform machine learning on the edge, i.e on your mobile device? This would mean that you no longer would need the roundtrip to the server, no data will leave the device and you don&amp;rsquo;t even need an internet connection. In this session you will get an introduction to TensorFlow Lite so that you can use it in your own projects.
-I will demonstrate how you can take a pre-trained model for image classification and convert it to TensorFlow Lite format.</description></item><item><title>Making your Flutter Apps Secure</title><link>/sessions/make_flutter_secure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/make_flutter_secure/</guid><description>Security is one of the top concerns for Product Owners and higher management. This talk shows some cool ways you can look into as a developer to make your Flutter apps secure.
+In such an environment, speed is key.</description>
+    </item>
+    
+    <item>
+      <title>A Multiplatform triathlon -- Kotlin through Android, iOS and web</title>
+      <link>/sessions/multiplatform_triatholin_in_kotlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/multiplatform_triatholin_in_kotlin/</guid>
+      <description>Do you ever had the dream that you could develop for one platform and you could easily reuse the code and create an app on another platform? Yup, there&amp;rsquo;s Kotlin Multiplatform 🙌
+For several years now, we’ve been trying to find new solutions on how we could develop a single project and run it on all platforms. We’ve been seeing all types of solutions: some are web-based, others require you to learn a new language, and others even may require that you pay a monthly fee to use.</description>
+    </item>
+    
+    <item>
+      <title>Machine learning on the edge using TensorFlow Lite</title>
+      <link>/sessions/ml_using_tensorflow_lite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/ml_using_tensorflow_lite/</guid>
+      <description>What if you could perform machine learning on the edge, i.e on your mobile device? This would mean that you no longer would need the roundtrip to the server, no data will leave the device and you don&amp;rsquo;t even need an internet connection. In this session you will get an introduction to TensorFlow Lite so that you can use it in your own projects.
+I will demonstrate how you can take a pre-trained model for image classification and convert it to TensorFlow Lite format.</description>
+    </item>
+    
+    <item>
+      <title>Making your Flutter Apps Secure</title>
+      <link>/sessions/make_flutter_secure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/make_flutter_secure/</guid>
+      <description>Security is one of the top concerns for Product Owners and higher management. This talk shows some cool ways you can look into as a developer to make your Flutter apps secure.
 I will be sharing some tips for securing applications which include in-memory tokenization, using secure storages, some security rules for Firebase (maybe), securing the smaller app window, shared preferences, making secure https calls, hashing keys, obfuscation, etc.
-Note: for this talk, attendees will need Flutter experience.</description></item><item><title>Navigating the Flutter Ecosystem - Journey from Package Discovery to Publishing and Beyond</title><link>/sessions/flutter_ecosystem/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/flutter_ecosystem/</guid><description>&amp;ldquo;Flutter is more than just an engine, a set of widgets, and some tools; it also includes a large ecosystem of packages to add functionality to your apps beyond what comes out of the box&amp;rdquo; - Chris Sells, Google Product Manager - Flutter.
-Today, the Flutter ecosystem has more than 12,000 packages and new packages are being added to pub.dev everyday. As the Flutter package landscape is grows day by day, developers often find themselves searching endlessly for suitable packages and sometimes even end up reinventing the wheel.</description></item></channel></rss>
+Note: for this talk, attendees will need Flutter experience.</description>
+    </item>
+    
+    <item>
+      <title>Navigating the Flutter Ecosystem - Journey from Package Discovery to Publishing and Beyond</title>
+      <link>/sessions/flutter_ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/flutter_ecosystem/</guid>
+      <description>&amp;ldquo;Flutter is more than just an engine, a set of widgets, and some tools; it also includes a large ecosystem of packages to add functionality to your apps beyond what comes out of the box&amp;rdquo; - Chris Sells, Google Product Manager - Flutter.
+Today, the Flutter ecosystem has more than 12,000 packages and new packages are being added to pub.dev everyday. As the Flutter package landscape is grows day by day, developers often find themselves searching endlessly for suitable packages and sometimes even end up reinventing the wheel.</description>
+    </item>
+    
+  </channel>
+</rss>

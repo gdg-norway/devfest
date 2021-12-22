@@ -1,5 +1,60 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>_web on Devfest Norway 2020</title><link>/tags/_web/</link><description>Recent content in _web on Devfest Norway 2020</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/_web/index.xml" rel="self" type="application/rss+xml"/><item><title>Want more from your frontend framework! Re-thinking web dev experience</title><link>/sessions/want_more_from_your_frontend/</link><pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate><guid>/sessions/want_more_from_your_frontend/</guid><description>Do you also love creating useful (web)apps and get easily frustrated by any friction in the development process? I will compare Redux + REST with a full-stack, component-centric solution based on a graph API (think GraphQL) that I came to love. You might not be able to use the same framework - Fulcro - but you can still look for similar, more developer-friendly solutions that implement some of the same ideas and provide some of the same functionality.</description></item><item><title>Angular Material Design</title><link>/sessions/angular_material_design/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/angular_material_design/</guid><description>You may have heard of @angular/material, or added few in your project - but how can developers take advantage of Material to create cohesive applications? In this talk, we’ll learn how to leverage Angular and Material Design to create standard theming, custom design systems, and explore what’s next in Angular Material Design.</description></item><item><title>Beyond ES6 - New things in JavaScript</title><link>/sessions/beyond_es6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/beyond_es6/</guid><description>From 2015, when ES6 was introduced, JavaScript has added new features to the language each year. ES6 is considered modern JavaScript, but that is now 5 years ago. What has happened in the last 5 years? Let me show you what&amp;rsquo;s new in JavaScript.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_web on Devfest Norway 2022</title>
+    <link>/tags/_web/</link>
+    <description>Recent content in _web on Devfest Norway 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/_web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want more from your frontend framework! Re-thinking web dev experience</title>
+      <link>/sessions/want_more_from_your_frontend/</link>
+      <pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>/sessions/want_more_from_your_frontend/</guid>
+      <description>Do you also love creating useful (web)apps and get easily frustrated by any friction in the development process? I will compare Redux + REST with a full-stack, component-centric solution based on a graph API (think GraphQL) that I came to love. You might not be able to use the same framework - Fulcro - but you can still look for similar, more developer-friendly solutions that implement some of the same ideas and provide some of the same functionality.</description>
+    </item>
+    
+    <item>
+      <title>Angular Material Design</title>
+      <link>/sessions/angular_material_design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/angular_material_design/</guid>
+      <description>You may have heard of @angular/material, or added few in your project - but how can developers take advantage of Material to create cohesive applications? In this talk, we’ll learn how to leverage Angular and Material Design to create standard theming, custom design systems, and explore what’s next in Angular Material Design.</description>
+    </item>
+    
+    <item>
+      <title>Beyond ES6 - New things in JavaScript</title>
+      <link>/sessions/beyond_es6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/beyond_es6/</guid>
+      <description>From 2015, when ES6 was introduced, JavaScript has added new features to the language each year. ES6 is considered modern JavaScript, but that is now 5 years ago. What has happened in the last 5 years? Let me show you what&amp;rsquo;s new in JavaScript.
 I will show code and explain how the new features from the last 5 releases can help us.
 ES7/ES2016: includes, exponentiation
-ES8/ES2017: async &amp;amp; await, String padding, Object values &amp;amp; entries</description></item><item><title>Directives in Angular</title><link>/sessions/directives_in_angular/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/directives_in_angular/</guid><description>In this talk, we will be briefly touching upon what are directives and different kinds of directives available in Angular ..</description></item><item><title>Vue 3</title><link>/sessions/vue3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/sessions/vue3/</guid><description>Vue 3 was recently released! Let&amp;rsquo;s look at what&amp;rsquo;s new in Vue.js 3.
-The new composition API, Fragments, Teleport, performance improvements, and better TypeScript support are some good changes to the JavaScript framework.</description></item></channel></rss>
+ES8/ES2017: async &amp;amp; await, String padding, Object values &amp;amp; entries</description>
+    </item>
+    
+    <item>
+      <title>Directives in Angular</title>
+      <link>/sessions/directives_in_angular/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/directives_in_angular/</guid>
+      <description>In this talk, we will be briefly touching upon what are directives and different kinds of directives available in Angular ..</description>
+    </item>
+    
+    <item>
+      <title>Vue 3</title>
+      <link>/sessions/vue3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sessions/vue3/</guid>
+      <description>Vue 3 was recently released! Let&amp;rsquo;s look at what&amp;rsquo;s new in Vue.js 3.
+The new composition API, Fragments, Teleport, performance improvements, and better TypeScript support are some good changes to the JavaScript framework.</description>
+    </item>
+    
+  </channel>
+</rss>

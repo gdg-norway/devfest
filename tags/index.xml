@@ -1,1 +1,92 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Devfest Norway 2020</title><link>/tags/</link><description>Recent content in Tags on Devfest Norway 2020</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>_mobile</title><link>/tags/_mobile/</link><pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate><guid>/tags/_mobile/</guid><description/></item><item><title>_web</title><link>/tags/_web/</link><pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate><guid>/tags/_web/</guid><description/></item><item><title>_ai</title><link>/tags/_ai/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/_ai/</guid><description/></item><item><title>_backend</title><link>/tags/_backend/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/_backend/</guid><description/></item><item><title>break</title><link>/tags/break/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/break/</guid><description/></item><item><title>close</title><link>/tags/close/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/close/</guid><description/></item><item><title>hero</title><link>/tags/hero/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/hero/</guid><description/></item><item><title>open</title><link>/tags/open/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/open/</guid><description/></item><item><title>quiz</title><link>/tags/quiz/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tags/quiz/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Devfest Norway 2022</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Devfest Norway 2022</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2020 10:00:00 +0200</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>_mobile</title>
+      <link>/tags/_mobile/</link>
+      <pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>/tags/_mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>_web</title>
+      <link>/tags/_web/</link>
+      <pubDate>Sun, 04 Oct 2020 10:00:00 +0200</pubDate>
+      
+      <guid>/tags/_web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>_ai</title>
+      <link>/tags/_ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/_ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>_backend</title>
+      <link>/tags/_backend/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/_backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>break</title>
+      <link>/tags/break/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>close</title>
+      <link>/tags/close/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/close/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hero</title>
+      <link>/tags/hero/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open</title>
+      <link>/tags/open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quiz</title>
+      <link>/tags/quiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quiz/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
