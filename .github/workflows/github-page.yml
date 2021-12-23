@@ -20,7 +20,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
 
-      - name: Install & Build 🔧
+      - name: Install & Build
         run: |
           npm install
           npm run build
