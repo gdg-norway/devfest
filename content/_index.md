@@ -15,7 +15,7 @@ menu:
 
 ### A free conference for passionate developers
 
-<a class="btn btn-lg" style="margin-top: 1em;" href="http://bit.ly/free-ticket-devfest-no" target="_blank">Get your FREE ticket</a>
+<a class="btn btn-lg" style="margin-top: 1em;" href="https://gdg.community.dev/events/details/google-gdg-cloud-oslo-norway-presents-devfest-norway/" target="_blank">Get your FREE ticket</a>
 
 {{% /jumbo %}}
 

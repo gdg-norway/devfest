@@ -9,7 +9,7 @@ menu:
 
 {{% hero %}}
 
-Our awesome DevFest speakers!
+Our awesome DevFest speakers will be published soon! Watchi this space! 👀
 
 {{% /hero %}}
 

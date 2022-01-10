@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "DevFest Norway 2022"
+title = "DevFest Norway 2021"
 
 # Theme
 theme = "devfest-2020"
