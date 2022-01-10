@@ -2,7 +2,7 @@
 title: Get ready for DevFest Norway 2021!
 brief: Dear friends! We have great news for you ❤️
 image: /images/blog/group.jpg
-date: 2020-08-24
+date: 2022-01-03
 draft: false
 ---
 
