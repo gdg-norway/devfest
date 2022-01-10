@@ -16,8 +16,6 @@ The DevFest, or ‘Developers Festival’, is a technical conference for develop
 ### Organizing communities
 
 - GDG Oslo
-- GDG cloud Oslo
+- GDG Cloud Oslo
 - GDG Bergen
-- GDG Trondheim
 - GDG Sørlandet
-- GDG Stavanger

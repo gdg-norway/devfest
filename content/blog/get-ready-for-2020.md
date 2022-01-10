@@ -1,14 +1,14 @@
 ---
-title: Get ready for DevFest Norway 2020!
+title: Get ready for DevFest Norway 2021!
 brief: Dear friends! We have great news for you ❤️
 image: /images/blog/group.jpg
 date: 2020-08-24
 draft: false
 ---
 
-#devfestno 2020 goes online and will be free! 😍👏
+#devfestno 2021 goes online and will be free! 😍👏
 
-We are very excited and happy about this decision!
+We are very excited and happy about this!
 
 Stay tuned! 🚀
 

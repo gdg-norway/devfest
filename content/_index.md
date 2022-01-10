@@ -11,7 +11,7 @@ menu:
 
 # DevFest Norway
 
-## October 14-15th, Online
+## January 20th, 2022. Online
 
 ### A free conference for passionate developers
 
@@ -27,7 +27,7 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
 
 {{% /home-info %}}
 
-<!-- ... -->
+<!-- 
 
 {{% home-speakers %}}
 
@@ -39,13 +39,17 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
 
 {{% /home-speakers %}}
 
-<!-- ... -->
+... -->
+
+<!-- 
 
 {{% home-subscribe  class="primary" %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
+
+... -->
 
 <!-- ... -->
 
