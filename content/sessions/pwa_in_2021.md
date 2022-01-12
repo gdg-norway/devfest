@@ -5,8 +5,8 @@ id: pwa_in_2021
 format: conference
 tags:
   - _web
-  - _frontend
-  - _android
+  - _mobile
+  - _pwa
 level: 
 
 speakers:

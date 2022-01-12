@@ -19,3 +19,6 @@
 - key: _pwa
   name: "\U0001F30D PWA"
   id: _pwa
+- key: _other
+  name: "\U0001F4F1 Other"
+  id: _other
