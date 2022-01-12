@@ -3,7 +3,7 @@ key: hakon_silfvernagel
 name: Håkan Silfvernagel
 id: hakon_silfvernagel
 feature: true
-company: ''
+company: 'Miles'
 city: 'Norway'
 photoURL: /images/speakers/hakan_silfvernagel.png
 images:
