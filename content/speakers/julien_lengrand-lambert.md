@@ -3,7 +3,7 @@ key: julien_lengrand-lambert
 name: Julien Lengrand-Lambert
 id: julien_lengrand-lambert
 feature: true
-company: ''
+company: 'Adyen'
 city: 'The Netherlands'
 photoURL: /images/speakers/julien_lengrand-lambert.jpeg
 images:
