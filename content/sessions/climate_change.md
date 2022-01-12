@@ -2,7 +2,7 @@
 key: climate_change
 title: What can I do about climate change as a developer... and a human being?
 id: climate_change
-format: conference
+format: lightning
 tags:
   - _other
 level: 
