@@ -5,9 +5,9 @@ id: morten_forfang
 feature: true
 company: 'Computas'
 city: 'Norway'
-photoURL: /images/speakers/morten_forfang.jpeg
+photoURL: /images/speakers/morten_forfang.jpg
 images:
-  - https://devfest.no/images/speakers/morten_forfang.jpeg
+  - https://devfest.no/images/speakers/morten_forfang.jpg
 title: 
   - Synthetic controls for Google Vertex AI 
 ---

@@ -5,9 +5,9 @@ id: hakon_silfvernagel
 feature: true
 company: 'Miles'
 city: 'Norway'
-photoURL: /images/speakers/hakan_silfvernagel.png
+photoURL: /images/speakers/hakan_silfvernagel.jpg
 images:
-  - https://devfest.no/images/speakers/hakon_silfvernagel.png
+  - https://devfest.no/images/speakers/hakon_silfvernagel.jpg
 title: Why you should consider Web Assembly in your next frontend project
 ---
 
