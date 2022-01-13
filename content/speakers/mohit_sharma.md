@@ -4,10 +4,10 @@ name: Mohit Sharma
 id: mohit_sharma
 feature: true
 company: 'MongoDB'
-city: 'Norway'
-photoURL: /images/speakers/mohit_sharma.jpeg
+city: 'Ireland'
+photoURL: /images/speakers/mohit_sharma.jpg
 images:
-  - https://devfest.no/images/speakers/mohit_sharma.jpeg
+  - https://devfest.no/images/speakers/mohit_sharma.jpg
 title: 
   - Building Native App & sharing codebase with KMM
 ---

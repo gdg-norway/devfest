@@ -5,9 +5,9 @@ id: gaute_meek_olsen
 feature: true
 company: 'Capra'
 city: 'Norway'
-photoURL: /images/speakers/gaute_meek_olsen.jpeg
+photoURL: /images/speakers/gaute_meek_olsen.jpg
 images:
-  - https://devfest.no/images/speakers/gaute_meek_olsen.jpeg
+  - https://devfest.no/images/speakers/gaute_meek_olsen.jpg
 title: 
   - What's new in JavaScript - ES2021
 ---

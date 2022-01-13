@@ -5,9 +5,9 @@ id: suleyman_fatih_giris
 feature: true
 company: 'DNB'
 city: 'Norway'
-photoURL: /images/speakers/suleyman_fatih_giris.jpeg
+photoURL: /images/speakers/suleyman_fatih_giris.jpg
 images:
-  - https://devfest.no/images/speakers/suleyman_fatih_giris.jpeg
+  - https://devfest.no/images/speakers/suleyman_fatih_giris.jpg
 title: 
   - Shooting a "Glance" at Android App Widgets
 ---

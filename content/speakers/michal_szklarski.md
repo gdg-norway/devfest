@@ -5,9 +5,9 @@ id: michal_szklarski
 feature: true
 company: ''
 city: 'Poland'
-photoURL: /images/speakers/michal_szklarski.png
+photoURL: /images/speakers/michal_szklarski.jpg
 images:
-  - https://devfest.no/images/speakers/michal_szklarski.png
+  - https://devfest.no/images/speakers/michal_szklarski.jpg
 title: Navigating the Flutter Ecosystem - Journey from Package Discovery to Publishing and Beyond
 ---
 
