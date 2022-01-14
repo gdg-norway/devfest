@@ -9,7 +9,7 @@ photoURL: /images/speakers/marton_kodok.jpg
 images:
   - https://devfest.no/images/speakers/marton_kodok.jpg
 title: 
-  - 'Cloud Workflows: What's new in serverless orchestration and automation'
+  - "Cloud Workflows: What's new in serverless orchestration and automation"
 ---
 
 Márton is a Google Developer Expert(GDE) On Cloud, a Champion in the Cloud Innovators program, top user on Stackoverflow with 195k reputation, software developer, international speaker & passionate about mountain hiking.
