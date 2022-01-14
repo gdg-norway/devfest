@@ -5,6 +5,7 @@ id: vertex_ai
 format: conference
 tags:
   - _ai
+  - _cloud
 level: 
 
 speakers:

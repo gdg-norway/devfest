@@ -1,6 +1,6 @@
 ---
 key: scaling_issues
-title: 'Cloud Workflows: What's new in serverless orchestration and automation'
+title: Solving imaginary scaling issues
 id: scaling_issues
 format: conference
 tags:
