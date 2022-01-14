@@ -1,6 +1,6 @@
 ---
 key: cloud_workflows
-title: Cloud Workflows: What's new in serverless orchestration and automation
+title: Cloud Workflows – What's new in serverless orchestration and automation
 id: cloud_workflows
 format: conference
 tags:
