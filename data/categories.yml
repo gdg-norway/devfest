@@ -22,3 +22,6 @@
 - key: _other
   name: "\U0001F4F1 Other"
   id: _other
+- key: _cloud
+  name: "\U0002601 Cloud"
+  id: _cloud
