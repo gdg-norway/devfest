@@ -19,7 +19,7 @@ menu:
 
 {{% /jumbo %}}
 
-{{% home-info what="Expected participants:1000,Days:1,Sessions:8,Fun:∞" class="primary" %}}
+{{% home-info what="Expected participants:1000,Days:1,Sessions:11,Fun:∞" class="primary" %}}
 
 ## What is DevFest Norway?
 
