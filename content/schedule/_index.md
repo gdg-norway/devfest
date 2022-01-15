@@ -10,15 +10,12 @@ horizontal: false
 
 {{% hero %}}
 
-All  times are in CEST timezone (GMT+2).
+All  times are in CET timezone (GMT+1).
 
-The schedule with our awesome DevFest speakers will be published soon! Watch this space! 👀
+The schedule is being updated as talks are confirmed! Watch this space! 👀
 
-<!--
 <ul>
-  <li><strong><a href="#" target="_blank">Day 1 - Stream link</a></strong>
-  <li><strong><a href="#" target="_blank">Day 2 - Stream link</a></strong>
+  <li><strong><a href="#" target="_blank">Live Stream link</a></strong>
 </ul>
--->
 
 {{% /hero %}}

@@ -1,26 +1,33 @@
-#- day: '2022-01-22'
-#  start: '12:00'
-#  rooms:
-#    - room: online
-#      slots: #FIXME
-#        - slot: open-1
-#          talk: __open
-#        - slot: slot-1
-#          talk:
-#        - slot: slot-2
-#          talk:
-#        - slot: slot-3
-#          talk:
-#        - slot: slot-quiz
-#          talk: __quiz
-#        - slot: slot-hero
-#          talk: __hero
+- day: '2022-01-20'
+  start: '12:00'
+  rooms:
+    - room: online
+      slots:
+        - slot: open-1
+          talk: __open
+        - slot: slot-1
+          talk: climate_change
+        - slot: slot-2
+          talk: es2021
+        - slot: slot-3
+          talk: pwa_in_2021
+        - slot: slot-4
+          talk: web_assembly
+        - slot: slot-5
+          talk: native_app_kmm
 #        - slot: slot-6
-#          talk:
+#          talk: tba
 #        - slot: slot-7
-#          talk:
+#          talk: tba
 #        - slot: slot-8
-#          talk:
+#          talk: tba
+#        - slot: slot-8
+#          talk: tba
+#        - slot: slot-9
+#          talk: tba
+#        - slot: slot-10
+#          talk: tba
+#        - slot: slot-11
+#          talk: tba
 #        - slot: close-1
 #          talk: __close
-         
