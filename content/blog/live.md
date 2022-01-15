@@ -6,9 +6,9 @@ date: 2022-01-15
 draft: false
 ---
 
-#devfestno 2021 goes online and is free for everyone! 😍
+DevFest Norway 2021 goes online and is free for everyone!
 
-
+- This year's social media tags: #devfestNO #devfest #devest2021
 - Get your FREE [tickets 🎟](https://gdg.community.dev/events/details/google-gdg-cloud-oslo-norway-presents-devfest-norway/).
 - Watch it LIVE 🔴: [https://youtu.be/EwerUS318LQ](https://youtu.be/EwerUS318LQ)
 
