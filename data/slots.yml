@@ -21,58 +21,58 @@
   duration: 30
   row:
     start: 6
-    end: 9
+    end: 8
 - key: slot-4
   start: '13:00'
   duration: 30
   row:
-    start: 9
-    end: 11
+    start: 8
+    end: 10
 - key: slot-5
   start: '13:30'
   duration: 30
   row:
-    start: 11
-    end: 14
+    start: 10
+    end: 12
 - key: slot-6
   start: '14:00'
   duration: 30
   row:
-    start: 14
-    end: 17
+    start: 12
+    end: 14
 - key: slot-7
   start: '14:30'
   duration: 30
   row:
-    start: 17
-    end: 20
+    start: 14
+    end: 16
 - key: slot-8
   start: '15:00'
   duration: 30
   row:
-    start: 20
-    end: 13
+    start: 16
+    end: 18
 - key: slot-9
   start: '15:30'
   duration: 30
   row:
-    start: 23
-    end: 26
+    start: 18
+    end: 20
 - key: slot-10
   start: '16:00'
   duration: 30
   row:
-    start: 26
-    end: 29
+    start: 20
+    end: 22
 - key: slot-11
   start: '16:30'
   duration: 30
   row:
-    start: 29
-    end: 32
+    start: 22
+    end: 24
 - key: close-1
   start: '17:00'
   duration: 15
   row:
-    start: 32
-    end: 33
+    start: 24
+    end: 26
