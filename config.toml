@@ -42,7 +42,7 @@ googleAnalytics = "G-RS13F4SMSQ"
 [[menu.main]]
     identifier = "Youtube"
     name = "Live"
-    url = "#"
+    url = "blog/live/"
     weight = 190
     external = true
 
