@@ -14,8 +14,8 @@ All  times are in CET timezone (GMT+1).
 
 The schedule is being updated as talks are confirmed! Watch this space! 👀
 
-<ul>
-  <li><strong><a href="#" target="_blank">Live Stream link</a></strong>
-</ul>
+<p>
+  <strong><a href="https://youtu.be/EwerUS318LQ" target="_blank">Live Stream link<a></strong> – <strong><a href="https://youtu.be/EwerUS318LQ" target="_blank">https://youtu.be/EwerUS318LQ<a></strong>
+</p>
 
 {{% /hero %}}

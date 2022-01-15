@@ -13,7 +13,7 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "G-RS13F4SMSQ"
 
 [params]
-    title = "DevFest Norway 2022 - The Largest GDGs and GDGs Cloud conference in Norway. January 20th. Free Developer conference."
+    title = "DevFest Norway 2021 - The Largest GDGs and GDGs Cloud conference in Norway. January 20th. Free Developer conference."
     date = "2022-01-20"
     description = "Local speakers, Google Developer Experts and legendary international speakers onboard, an excellent program, fresh and 100% useful."
     images = ["/images/social-share.png"]
