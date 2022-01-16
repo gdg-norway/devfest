@@ -27,7 +27,6 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
 
 {{% /home-info %}}
 
-<!-- 
 
 {{% home-speakers %}}
 
@@ -38,8 +37,6 @@ DevFests are annual community-led developer events hosted by Google Developer Gr
                 icon="right" >}}
 
 {{% /home-speakers %}}
-
-... -->
 
 <!-- 
 
