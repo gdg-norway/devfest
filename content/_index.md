@@ -1,5 +1,5 @@
 ---
-title: DevFest Norway - Home
+title: Home
 icon: home
 
 menu:
