@@ -70,9 +70,27 @@
   row:
     start: 22
     end: 24
-- key: close-1
+- key: slot-12
   start: '17:00'
-  duration: 15
+  duration: 30
   row:
     start: 24
     end: 26
+- key: slot-13
+  start: '17:30'
+  duration: 30
+  row:
+    start: 26
+    end: 28
+- key: slot-14
+  start: '18:00'
+  duration: 30
+  row:
+    start: 28
+    end: 30
+- key: close-1
+  start: '18:30'
+  duration: 5
+  row:
+    start: 30
+    end: 31

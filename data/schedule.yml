@@ -15,19 +15,23 @@
           talk: web_assembly
         - slot: slot-5
           talk: native_app_kmm
-#        - slot: slot-6
+        - slot: slot-6
+          talk: app_widgets
+        - slot: slot-7
+          talk: mockk
+        - slot: slot-8
+          talk: vertex_ai
+        - slot: slot-9
+          talk: serverless_compute
+        - slot: slot-10
+          talk: cloud_workflows
+        - slot: slot-11
+          talk: scaling_issues
+#        - slot: slot-12
 #          talk: tba
-#        - slot: slot-7
-#          talk: tba
-#        - slot: slot-8
-#          talk: tba
-#        - slot: slot-8
-#          talk: tba
-#        - slot: slot-9
-#          talk: tba
-#        - slot: slot-10
-#          talk: tba
-#        - slot: slot-11
-#          talk: tba
-#        - slot: close-1
-#          talk: __close
+        - slot: slot-13
+          talk: webbluetooth
+        - slot: slot-14
+          talk: art_gallery
+        - slot: close-1
+          talk: __close
