@@ -29,8 +29,8 @@
           talk: scaling_issues
         - slot: slot-12
           talk: webbluetooth
-#        - slot: slot-13
-#          talk: tba
+        - slot: slot-13
+          talk: automate
         - slot: slot-14
           talk: art_gallery
         - slot: close-1
