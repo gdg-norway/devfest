@@ -12,8 +12,6 @@ horizontal: false
 
 All  times are in CET timezone (GMT+1).
 
-The schedule is being updated as talks are confirmed! Watch this space! 👀
-
 <br />
 <br />
 

@@ -10,7 +10,6 @@ talkType: "nop"
 
 {{% hero %}}
 
-Our awesome DevFest speakers are being published as they confirm. Watch this space! 👀
 <!-- TODO: filter and search -->
 
 {{% /hero %}}
