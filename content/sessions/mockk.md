@@ -4,7 +4,7 @@ title: Unit testing made easy with MockK
 id: mockk
 format: conference
 tags:
-  - _android
+  - _mobile
 level: 
 
 speakers:

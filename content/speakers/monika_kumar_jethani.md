@@ -13,3 +13,5 @@ title:
 ---
 
 Monika is a senior Android developer with over 7 years of experience in mobile application development. She is a regular Android/Kotlin speaker at mobile development conferences/meetups. Last, but not the least, she shares her birthday with Java. :)
+
+Google Developer Expert – Kotlin.
